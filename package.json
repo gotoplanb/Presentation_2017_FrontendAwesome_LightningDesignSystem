@@ -1,0 +1,14 @@
+{
+  "name": "demo_slds_heroku",
+  "version": "0.0.0",
+  "description": "demo_slds_heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
