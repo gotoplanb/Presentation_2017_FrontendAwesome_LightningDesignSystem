@@ -2,6 +2,7 @@
 
 Presented to the Frontend Awesome meetup group on February 16, 2017
 
+[See the slides](https://docs.google.com/presentation/d/1UZ24wTvIWakBocQvRSf66tch7D85wxODtVShUUTGqjI/edit?usp=sharing)
 
 ## Demo
 
