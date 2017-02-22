@@ -1,4 +1,4 @@
-# Introduction to the Lightning Design system
+# Introduction to the Lightning Design System
 
 Presented to the Frontend Awesome meetup group on February 16, 2017
 
